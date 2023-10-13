@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\bin\Debug\StudentCSVImport.exe.config
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\bin\Debug\StudentCSVImport.exe
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\bin\Debug\StudentCSVImport.pdb
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\obj\Debug\StudentCSVImport.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\obj\Debug\StudentCSVImport.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\obj\Debug\StudentCSVImport.exe
+C:\Users\Admin\source\repos\StudentCSVImport\StudentCSVImport\obj\Debug\StudentCSVImport.pdb
